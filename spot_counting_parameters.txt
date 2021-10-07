@@ -1,0 +1,3 @@
+Folder_name	spot_distance_cutoff	nucl_id_contrast_enh_type	nucl_id_ce_percentile	nucl_id_med_filter_size	nucl_id_watershed	nucl_id_ws_gauss_sigma	nucl_id_ws_min_dist	nucl_id_th	nucl_id_min_solidity	nucl_id_min_area	nucl_id_max_area	blob_min_sigma	blob_max_sigma	blob_num_sigma	blob_th_GFP	blob_th_RFP	blob_overlap	white_tophat	tophat_disk_size	GFP_ce_percentile_ll	GFP_ce_percentile_ul	RFP_ce_percentile_ll	RFP_ce_percentile_ul	count_from_0
+GFP g7	14	rescale_percentile	3	8	1	10	50	li	0.95	5000	100000	3	4	4	0.171	0.171	0.75	1	6	0.1	0.1	0.1	0.1	0
+dcas9 g7	14	rescale_percentile	3	8	1	10	50	li	0.95	5000	100000	3	4	4	0.171	0.171	0.75	1	6	0.1	0.1	0.1	0.1	1
