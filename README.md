@@ -1,7 +1,7 @@
 # Automated Fish counting for KaryoCreate
 ### The method is for KaryoCreate <br />
-Author:Sarah Keegan,Institute for Systems Genetics, NYUMC <br />
-        Xin Zhao,Institute for Systems Genetics, NYUMC <br />		
+Sarah Keegan,Institute for Systems Genetics, NYUMC <br />
+Xin Zhao,Institute for Systems Genetics, NYUMC <br />		
 ## Parameters:<br />
 <img width="856" alt="image" src="https://user-images.githubusercontent.com/50238955/117855191-3e7a4a00-b258-11eb-842f-04cd6b0e7472.png">
 bold-fonted parameters mean potential important parameters for algorithm <br />
