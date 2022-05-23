@@ -13,7 +13,7 @@ bold-fonted parameters mean potential important parameters for algorithm <br />
 <img width="850" alt="image" src="https://user-images.githubusercontent.com/50238955/117856460-a1b8ac00-b259-11eb-8fee-301b95aaede8.png">
 4. Change the PATH in FISH-counting.py
 <img width="1076" alt="image" src="https://user-images.githubusercontent.com/50238955/117856578-c90f7900-b259-11eb-86be-be74b77514cf.png">
-5. Run the script
+5. Run the script: <br />
 Python Fis-counting.py
 
 ## results examples:
