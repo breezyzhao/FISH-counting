@@ -41,7 +41,7 @@ Xin Zhao,Institute for Systems Genetics, NYUMC <br />
 4. Change the PATH in FISH-counting.py
 <img width="1076" alt="image" src="https://user-images.githubusercontent.com/50238955/117856578-c90f7900-b259-11eb-86be-be74b77514cf.png">
 5. Run the script: <br />
-Python Fis-counting.py
+Python Fish-counting.py
 
 ## Results examples: <br />
 
