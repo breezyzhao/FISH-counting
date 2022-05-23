@@ -18,7 +18,13 @@ Python Fis-counting.py
 
 ## Results examples: <br />
 
-Barplots show the percentage for different spots(for example, 10.62% of the imaging only had 1 spot and 88.5% of the imaging had 2 spots)
+The out put will contain count_summary.txt and percentage_summary.txt, which should looks like: <br />
+| 0 | 1   | 2  | 3  | 4 | 5 | 6 | 7 | 8 | type | sample  |
+|---|-----|----|----|---|---|---|---|---|------|---------|
+| 0 |10.62|88.5|0.88| 0 | 0 | 0 | 0 | 0 | GFP  | sampleA |
+| 0 |5.20 |22.0|72.5| 0 | 0 | 0 | 0 | 0 | RFP  | sampleA |
+
+There will also have some barplots show the percentage for different spots(for example, 10.62% of the imaging only had 1 spot and 88.5% of the imaging had 2 spots) in each sub-directory
 <img width="1084" alt="image" src="https://user-images.githubusercontent.com/50238955/117858265-b0a05e00-b25b-11eb-8d27-553098d317e0.png">
-<img width="747" alt="image" src="https://user-images.githubusercontent.com/50238955/117858302-bf871080-b25b-11eb-87db-21076f7975b6.png">
+
 
