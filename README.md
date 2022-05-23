@@ -5,7 +5,7 @@ Xin Zhao,Institute for Systems Genetics, NYUMC <br />
 ## Parameters:<br />
 |Parameters| Note|
 |----------|-----|
-|spot_distance_cutoff| max distance between for 2 spots to be considered 1|
+|__spot_distance_cutoff__| max distance between for 2 spots to be considered 1|
 |**NUCLEI DETECTION PARAMETERS:**|
 |nucl_id_contrast_enh_type| method to use for contrast enhancement of DAPI image - 2 options: none (no contrast-enhance) or rescale_percentile|
 |nucl_id_ce_percentile| the top/bottom percentile of pixels to set to the image maximum/minimum when rescaling pixel values.  Similar to % “saturated pixels” in Imagej’s Contrast Enhance.  *NOTE* if this is set to 0, then it is the same as setting none for nucl_id_contrast_enh_type (no contrast-enhance)|
