@@ -16,9 +16,9 @@ bold-fonted parameters mean potential important parameters for algorithm <br />
 5. Run the script: <br />
 Python Fis-counting.py
 
-## results examples:
+## Results examples: <br />
 
-barplots show the percentage for different spots(for example, 10.62% imaing slides showed only 1 spot)
+Barplots show the percentage for different spots(for example, 10.62% of the imaging only had 1 spot and 88.5% of the imaging had 2 spots)
 <img width="1084" alt="image" src="https://user-images.githubusercontent.com/50238955/117858265-b0a05e00-b25b-11eb-8d27-553098d317e0.png">
 <img width="747" alt="image" src="https://user-images.githubusercontent.com/50238955/117858302-bf871080-b25b-11eb-87db-21076f7975b6.png">
 
