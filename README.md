@@ -19,7 +19,7 @@ Python Fis-counting.py
 
 ## Results examples: <br />
 
-The out put will contain count_summary.txt and percentage_summary.txt, which should looks like: <br />
+The out put will contain count_summary.txt and percentage_summary.txt, which should looks like table below: <br />
 | 0(spot) | 1(spot) | 2(spot)  | 3(spot)| 4(spot)| 5(spot) | 6(spot) | 7(spot)| 8(spot) | type | sample  |
 |---------|---------|----------|--------|--------|---------|---------|--------|---------|------|---------|
 | 0 |10.62|88.5|0.88| 0 | 0 | 0 | 0 | 0 | GFP  | sampleA |
