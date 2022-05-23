@@ -3,10 +3,10 @@
 Sarah Keegan,Institute for Systems Genetics, NYUMC <br />
 Xin Zhao,Institute for Systems Genetics, NYUMC <br />		
 ## Parameters:<br />
-|Parameters| note|
+|Parameters| Note|
 |----------|-----|
 |spot_distance_cutoff| max distance between for 2 spots to be considered 1|
-|**NUCLEI DETECTION PARAMETERS:**||
+|**NUCLEI DETECTION PARAMETERS:**|
 |nucl_id_contrast_enh_type| method to use for contrast enhancement of DAPI image - 2 options: none (no contrast-enhance) or rescale_percentile|
 |nucl_id_ce_percentile| the top/bottom percentile of pixels to set to the image maximum/minimum when rescaling pixel values.  Similar to % “saturated pixels” in Imagej’s Contrast Enhance.  *NOTE* if this is set to 0, then it is the same as setting none for nucl_id_contrast_enh_type (no contrast-enhance)|
 |nucl_id_med_filter_size| size of median filter to apply prior to nucleus detection|
@@ -17,7 +17,7 @@ Xin Zhao,Institute for Systems Genetics, NYUMC <br />
 |nucl_id_min_solidity| minimum solidity to be included as a nuclei (otherwise object is discarded for the analysis)|
 |nucl_id_min_area| minimum area of nuclei, objects smaller will be discarded|
 |nucl_id_max_area| maximum area of nuclei, objects larger will be discarded|
-|**BLOB DETECTION PARAMETERS:**||
+|**BLOB DETECTION PARAMETERS:**|
 |blob_min_sigma| min.stdev for gaussian kernel.  keep low to detect smaller blobs|
 |blob_max_sigma| max.stdev for gaussian kernel|
 |blob_num_sigma| number of intermediate values of stdev to consider|
