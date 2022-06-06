@@ -34,7 +34,7 @@ Xin Zhao,Institute for Systems Genetics, NYUMC <br />
 
 ## How to run it: <br />
 1. Generate a spot_counting_parameters.txt (you may see the spot_counting_parameters.txt as a reference) <br />
-2. For each FISH imaging sildes, make sure they are named end with ..GFP ..RFP and ..DAPI (this script can only accept TIF file) <br />
+2. For each FISH imaging sildes, make sure they are named end with ..GFP ..RFP and ..DAPI (this script can only accept TIF file and make sure the colorspace is RGB) <br />
 <img width="446" alt="image" src="https://user-images.githubusercontent.com/50238955/117856223-5b634d00-b259-11eb-89c4-656e51e3a63f.png">
 3. Put the spot_counting_parameters.txt into the slides directory <br />
 <img width="850" alt="image" src="https://user-images.githubusercontent.com/50238955/117856460-a1b8ac00-b259-11eb-8fee-301b95aaede8.png">
