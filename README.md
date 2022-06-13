@@ -1,7 +1,10 @@
 # Automated Fish counting for KaryoCreate
 ### The method is for KaryoCreate <br />
 Sarah Keegan,Institute for Systems Genetics, NYUMC <br />
-Xin Zhao,Institute for Systems Genetics, NYUMC <br />		
+Xin Zhao,Institute for Systems Genetics, NYUMC <br />
+
+The original version of FISH-counting is from github:https://github.com/FenyoLab/FISH-spot-finding
+
 ## Parameters:<br />
 |Parameters| Note|
 |----------|-----|
